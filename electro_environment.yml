@@ -1,0 +1,11 @@
+name: electro
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter
+  - matplotlib=3.7
+  - numba=0.57
+  - numpy=1.25
+  - python=3.9
+  - scipy=1.9
